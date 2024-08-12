@@ -1,0 +1,28 @@
+
+h4{
+    color: rgb(132, 58, 24);
+}
+
+form{
+    width: 20rem;
+    height: 25rem;
+    border-radius: 4rem;
+    margin-left: 30rem;
+    padding-top: 3rem;
+    background-color: rgb(250, 250, 250);
+    box-sizing: border-box;
+    box-shadow: rgb(79, 78, 78);
+    align-items: justify;
+    justify-content: center;
+}
+form label{
+    font-size: 1.3rem;
+    margin-bottom: 2rem;
+}
+form input{
+    height: 2rem;
+    width: 70%;
+    border-radius: 2rem;
+    background-color: white;
+    border-color: azure;
+}
